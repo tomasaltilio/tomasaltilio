@@ -5,7 +5,7 @@
 
 </div>
 
-- 🔭 I’m currently working on:
+#### 🔭 I’m currently working on:
  
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=tomasaltilio&repo=Discover_Buenos_Aires)](https://github.com/tomasaltilio/Discover_Buenos_Aires)
 
