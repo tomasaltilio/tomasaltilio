@@ -3,14 +3,13 @@
 <div>
   <p>Recently graduated as a Data Scientist after 9 intensive weeks (360 hours) at Le Wagon, I'm looking for opportunities on which to develop my curiosity over data. I've worked over 7       years in HR Training, used to deal with deadlines, budgets and client needs.</p>
 
-  <p>Skills: PYTHON / SKLEARN / TENSORFLOW / SQL / HTML / CSS</p>
 </div>
 
 - 🔭 I’m currently working on:
  
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=tomasaltilio&repo=Discover_Buenos_Aires)](https://github.com/tomasaltilio/Discover_Buenos_Aires)
 
-<h3 align="left">Languages and Tools:</h3>
+### Languages and Tools:
 <br>
     <a href="https://getbootstrap.com" target="_blank"> 
         <img align='left' src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> 
@@ -52,7 +51,7 @@
 <br>      
 <br>     
 <br>     
-<h3 align="left">My Profile Overview:</h3>
+### My Profile Overview:
 <br>
 <p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=tomasaltilio&show_icons=true&locale=en" alt="tomasaltilio" /></p>
 <p></p>
