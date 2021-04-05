@@ -8,6 +8,7 @@ Skills: PYTHON / SKLEARN / TENSORFLOW / SQL / HTML / CSS
 - 🔭 I’m currently working on https://github.com/tomasaltilio/Discover_Buenos_Aires 
 
 
+<div><p>My profile overview: </p>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tomasaltilio)](https://github.com/anuraghazra/github-readme-stats)
 
@@ -15,3 +16,4 @@ Skills: PYTHON / SKLEARN / TENSORFLOW / SQL / HTML / CSS
 
 ![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=tomasaltilio)  
 
+</div>
