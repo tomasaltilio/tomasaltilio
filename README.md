@@ -1,5 +1,5 @@
 ### Hi there 👋, my name is Tomas
-#### Jr. Data Scientist
+#### Data Scientist
 <div>
   <p>Recently graduated as a Data Scientist after 9 intensive weeks (360 hours) at Le Wagon, I'm looking for opportunities on which to develop my curiosity over data. I've worked over 7       years in HR Training, used to deal with deadlines, budgets and client needs.</p>
 
